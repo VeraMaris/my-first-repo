@@ -8,4 +8,3 @@ some text
 
 [website van nu.nl](http://nu.nl), ga snel kijken
 
-update
