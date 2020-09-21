@@ -2,6 +2,6 @@
 
 some text
 
-##My picture
+## My picture
 
 ! [mijn profielfoto] (Profielfoto.png)
