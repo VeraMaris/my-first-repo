@@ -4,4 +4,4 @@ some text
 
 ## My picture
 
-! [mijn profielfoto] (Profielfoto.png)
+![mijn profielfoto](Profielfoto.png)
